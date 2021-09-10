@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BitaqwaApp</string>
+    <string name="text_welcome">Assalamualaikum, Fihryal Faqiy</string>
+    <string name="text_name_pray">Subuh</string>
+    <string name="text_time_pray">04:20</string>
+    <string name="text_location_pray">Mekkah, Arab Saudi</string>
+    <string name="text_menu_doa">Doa Doa</string>
+    <string name="text_menu_dzikir">Dzikir</string>
+    <string name="text_menu_Zakat">Zakat</string>
+    <string name="text_menu_jadwal_sholat">Jadwal Sholat</string>
+    <string name="text_menu_video_kajian">Video Kajian</string>
+    <string name="text_inspirasi">Inspirasi</string>
+    <string name="text_jumlah_rupiah">Jumlah Rupih</string>
+    <string name="text_ok">OK</string>
+</resources>
